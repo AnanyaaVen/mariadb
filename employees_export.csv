@@ -1,0 +1,5 @@
+id,first_name,last_name,salary,department_name,location
+1,Alice,Smith,85000.00,Engineering,New York
+2,Bob,Jones,60000.00,Marketing,London
+3,Charlie,Brown,55000.00,Human Resources,Tokyo
+4,Diana,Prince,95000.00,Engineering,New York
